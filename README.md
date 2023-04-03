@@ -1,4 +1,11 @@
-# :construction: README customizado em construção ! :construction:
+# Playground Functions
+This project handle with some introductions of JavaScript functions, by manipulation some data like strings, integers and boolean types.
+
+To clone this repository just copy the follwing `git@github.com:EliasGalindo0/project-playground-functions.git` and paste on your terminal.
+
+No further action needed.
+
+The repository will be downloaded on your local. Enjoy it!
 <!-- Olá, Tryber!
 Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
 
